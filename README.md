@@ -4,7 +4,7 @@
 
 lgyn10@naver.com
 
-## ✨log
+## ✨Blog
 
 https://velog.io/@lgyn10
 
