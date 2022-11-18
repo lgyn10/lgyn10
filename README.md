@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-✨Contact
+## ✨Contact
 
 lgyn10@naver.com
 
-✨blog
+## ✨log
 
 https://velog.io/@lgyn10
 
