@@ -8,7 +8,7 @@ lgyn10@naver.com
 
 https://velog.io/@lgyn10
 
-
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
 <!--
 **lgyn10/lgyn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
