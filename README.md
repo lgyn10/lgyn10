@@ -2,7 +2,8 @@
 
 ## ✨Contact
 
-changyunlee10@gmail.com
+lgyn10@naver.com
+
 
 ## ✨Blog
 
