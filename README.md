@@ -1,13 +1,11 @@
-### Hi there 👋
 
-## ✨Contact
+## Contact
 
-lgyn10@naver.com
+changyunlee10@gmail.com
 
 
 ## ✨Blog
 
-https://velog.io/@lgyn10
 
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
